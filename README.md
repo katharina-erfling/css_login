@@ -1,3 +1,5 @@
+<img width="1888" height="903" alt="image" src="https://github.com/user-attachments/assets/d766c086-8a94-49d1-b628-c052df92c450" />
+
 # 🔐 Login UI Prototype
 
 Responsiver mehrseitiger Login- und Registrierungs-Prototype, gebaut mit purem HTML5 und CSS3. Zeigt einen vollständigen Auth-Flow mit Login, Passwort-Reset und dreistufigem Registrierungsprozess.
